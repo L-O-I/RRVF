@@ -25,10 +25,20 @@ The official repo for "Learning Only with Images: Visual Reinforcement Learning 
 <h1 style="font-size: 32px; color: #333; text-align: left;">
   <span style="font-size: 30px; color:rgb(180, 148, 61);">📢</span> News
 </h1>
-<p align="left">
-🚀 <strong>2025-08-07</strong>: We released [Cold-start Dataset](https://huggingface.co/datasets/syficy/rrvf_coldstart_chartqa) used for chart_to_code task! <br>
-🚀 <strong>2025-07-30</strong>: Our RRVF paper  ([Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback](https://arxiv.org/abs/2507.20766)) can be accessed in arXiv! <br>
-</p>
+<ul style="list-style-type: none; padding-left: 0;">
+  <li style="margin-bottom: 1em;">
+    🚀 <strong>2025-08-07</strong>:
+    <ul style="list-style-type: ' V '; padding-left: 20px; margin-top: 0.5em;">
+      <li>We released <a href="https://huggingface.co/datasets/syficy/rrvf_coldstart_chartqa">[Cold-start Dataset]</a> used for chart_to_code task!</li>
+      <li>We released <a href="https://huggingface.co/chenzju/rrvf_chartmimic/tree/master">[RRVF-Chart Model]</a> and <a href="https://huggingface.co/chenzju/rrvf_websight/tree/master">[RRVF-Web Model]</a>!</li>
+    </ul>
+  </li>
+  <li style="margin-bottom: 1em;">
+    🚀 <strong>2025-07-30</strong>: Our RRVF paper (<a href="https://arxiv.org/abs/2507.20766">Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback</a>) can be accessed in arXiv!
+  </li>
+</ul>
+
+
 
 ## Table of Contents
 
