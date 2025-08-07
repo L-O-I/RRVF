@@ -4,6 +4,11 @@
 
 # Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback
 ---
+The official repo for "Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback".
+
+
+
+
 <p align="center">
        🤗 <a href="https://huggingface.co/datasets/syficy/rrvf_coldstart_chartqa">Cold-start Dataset</a> &nbsp | &nbsp
         <a href="https://arxiv.org/abs/2507.20766" target="_blank">
@@ -14,14 +19,15 @@
 
 
 
-
+🔥 **Next up: Scaling RRVF for more diverse and complex visual applications!**
 
 
 <h1 style="font-size: 32px; color: #333; text-align: left;">
   <span style="font-size: 30px; color:rgb(180, 148, 61);">📢</span> News
 </h1>
 <p align="left">
-🚀 <strong>2025-08-07</strong>: We open sourced the cold start data used for chart_to_code. <br>
+🚀 <strong>2025-08-07</strong>: We released [Cold-start Dataset](https://huggingface.co/datasets/syficy/rrvf_coldstart_chartqa) used for chart_to_code task! <br>
+🚀 <strong>2025-07-30</strong>: Our RRVF paper  ([Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback](https://arxiv.org/abs/2507.20766)) can be accessed in arXiv! <br>
 </p>
 
 ## Table of Contents
