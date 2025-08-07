@@ -11,6 +11,8 @@ The official repo for "Learning Only with Images: Visual Reinforcement Learning 
 
 <p align="center">
        🤗 <a href="https://huggingface.co/datasets/syficy/rrvf_coldstart_chartqa">Cold-start Dataset</a> &nbsp | &nbsp
+       🤗 <a href="https://huggingface.co/chenzju/rrvf_chartmimic/tree/master">RRVF-Chart Model</a> &nbsp | &nbsp
+       🤗 <a href="https://huggingface.co/chenzju/rrvf_websight/tree/master">RRVF-Web Model</a> &nbsp | &nbsp
         <a href="https://arxiv.org/abs/2507.20766" target="_blank">
         📑 Paper
         </a>
