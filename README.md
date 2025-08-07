@@ -61,7 +61,7 @@ RRVF is a training framework that enhances the visual reasoning capabilities of 
 
 <div align="center">
 <img src="./assets/overview.png" width="900">
-<p>Figure 2: The RRVF framework.</p>
+<p>Figure: The RRVF framework.</p>
 </div>
 
 ### Iterative Visual Reasoning
